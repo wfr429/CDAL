@@ -10,6 +10,12 @@ Department of Automation, Tsinghua University
 
 > *CDAL* (**C**ounterfactually **D**ecoupled **A**ttention **L**earning) is a plug-and-play framework for open-world model attribution that explicitly models causal relationships between visual forgery traces and source models. By extracting factual and counterfactual attention maps and maximizing their causal effect, CDAL effectively isolates model-specific artifacts from source content biases, thus enhancing generalization to unseen generative models with minimal computational overhead.
 
+## CDAL for OSMA
+
+Please see [CDAL-OSMA](OSMA/).
+
+## CDAL for OW-DFA
+
 Codes will be released soon.
 
 ## Citation
