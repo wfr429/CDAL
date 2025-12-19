@@ -16,7 +16,7 @@ Please see [CDAL-OSMA](OSMA/).
 
 ## CDAL for OW-DFA
 
-Codes will be released soon.
+Please see [CDAL-CPL](OW-DFA/).
 
 ## Citation
 
